@@ -2,6 +2,10 @@
 
 Remove Windows 7 updates that adds telemetry, upgrade and other fishy stuff.
 
+# Manual
+
+Download trim7.cmd script, right click on it and choose "Run as Administrator". Reboot after finish and search for Windows updates again. Once you see them bad updates re-appear, just right click on them and select "Hide" from the context menu.
+
 # Updates
 
 KB971033 - Windows Activation Technologies
