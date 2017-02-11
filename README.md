@@ -18,6 +18,8 @@ KB2545698 -
 
 KB2592687 -
 
+KB2652664 - Windows Customer Experience Improvement Program
+
 KB2660075 -
 
 KB2670838 -

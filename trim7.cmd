@@ -1,6 +1,8 @@
 @echo off
 echo Uninstalling KB971033
 start /w wusa.exe /uninstall /kb:971033 /quiet /norestart
+echo Uninstalling KB2652664
+start /w wusa.exe /uninstall /kb:2652664 /quiet /norestart
 echo Uninstalling KB2882822
 start /w wusa.exe /uninstall /kb:2882822 /quiet /norestart
 echo Uninstalling KB2902907
