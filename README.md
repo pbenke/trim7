@@ -38,8 +38,6 @@ KB2923545 -
 
 KB2952664 - Compatibility update for upgrading Windows 7
 
-KB2976987 -
-
 KB2977759 - Compatibility update for Windows 7 RTM
 
 KB2990214 - Update that enables you to upgrade from Windows 7 to a later version of Windows
